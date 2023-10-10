@@ -12,7 +12,9 @@ typedef enum{SUCCESS=0, FAILURE=1} status;
  * fileName is c-string representing the file to read.
  * 
  */
+
 char* readString(char* fileName);
+
 
 /*
  * mysteryExplode - takes a string of characters and explodes it
